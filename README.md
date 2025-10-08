@@ -1,7 +1,6 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shahnila+Noureen;Frontend+Developer;MERN+Stack+Enthusiast;JavaScript+Lover💻" />
-</h1>
+<h1 align="center">👋 Hi, I'm Shahnila Noureen</h1>
+
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | JavaScript Lover 💻</h3>
 
 <p align="center">
   A passionate developer who loves crafting modern, responsive, and user-friendly web applications.  
