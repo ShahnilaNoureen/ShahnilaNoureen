@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Shahnila Noureen</h1>
 
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | JavaScript Lover 💻</h3>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast💻</h3>
 
 <p align="center">
   A passionate developer who loves crafting modern, responsive, and user-friendly web applications.  
